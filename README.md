@@ -43,7 +43,7 @@ I'm a passionate developer with expertise in building web applications using mod
 
 <div align="center">
   <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mickheas&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=mickheas&show_icons=true&theme=radical" alt="GitHub Stats" />-->
   
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickheas&layout=compact&theme=radical" alt="Top Languages" />
@@ -70,11 +70,5 @@ Scheduler
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 
