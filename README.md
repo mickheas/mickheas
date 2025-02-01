@@ -54,7 +54,7 @@ I'm a passionate developer with expertise in building web applications using mod
 
 ### [Project One](https://github.com/mickheas/schedulehub)
 Scheduler
-URL: (https://schedulehub.infy.uk)
+URL: (http://schedulehub.infy.uk)
 
 <!-- Add more projects as needed -->
 
