@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm <a href="https:github.com/mickheas">Mikyas</a>! 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Portfolio-Mikyas-blue" alt="Portfolio">
+  <img src="https://img.shields.io/badge/About-Mikyas-Mickheas" alt="Portfolio">
   <img src="https://img.shields.io/github/followers/mickheas?label=Follow&style=social" alt="GitHub Follow">
 </p>
 
