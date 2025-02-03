@@ -17,7 +17,7 @@
 I'm a passionate developer with expertise in building web applications using modern technologies. I enjoy solving challenging problems and learning new skills along the way.  
 - 🔭 I’m currently working on: Parked  
 - 🌱 I’m learning: Python and Express.js  
-- 💬 Ask me about: anything I guess*
+- 💬 Ask me about: how I am doing🥲
 
 ---
 
