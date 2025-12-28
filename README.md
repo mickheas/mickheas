@@ -56,11 +56,7 @@ I'm a passionate developer with expertise in building web applications using mod
 ---
 
 
-<!-- <div align="center">
-  <!-- <a href="https://linkedin.com/in/mikyas-aragaw-675812218" target="_blank"> -->
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div> -->
+
 
 ---
 
