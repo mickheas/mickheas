@@ -34,7 +34,6 @@ I'm a passionate developer with expertise in building web applications using mod
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <!-- Add more badges as needed -->
 </div> -->
 <div align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
@@ -53,13 +52,14 @@ I'm a passionate developer with expertise in building web applications using mod
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <div align="center">
-  <!-- Overall GitHub Stats -->
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=mickheas&show_icons=true&theme=radical" alt="GitHub Stats" />-->
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickheas&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mickheas&show_icons=true&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickheas&layout=compact&theme=radical&hide_border=true" />
 </div>
+
 
 
 
