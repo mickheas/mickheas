@@ -52,16 +52,11 @@ I'm a passionate developer with expertise in building web applications using mod
 
 ## GitHub Stats
 
-## GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mickheas&show_icons=true&theme=radical&hide_border=true" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickheas&layout=compact&theme=radical&hide_border=true" />
 </div>
-
-
-
 
 <!-- Add more projects as needed -->
 
@@ -69,8 +64,6 @@ I'm a passionate developer with expertise in building web applications using mod
 
 
 
-
----
 
 
 
