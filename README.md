@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <div align="center">
-  <img src="https://your-banner-image-link.com/banner.png" alt="Banner" width="100%" />
+  <!-- <img src="https://" alt="Banner" width="100%" /> -->
 </div>
 
 <h1 align="center">Hi there, I'm <a href="https:github.com/mickheas">Mikyas</a>! 👋</h1>
